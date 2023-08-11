@@ -3,7 +3,7 @@ I like hacking n stuff.
 
 
 ## 🌐 Socials:
-Discord:Chickenpie8636 
+Discord : Chickenpie8636 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
