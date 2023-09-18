@@ -1,9 +1,21 @@
 # 💫 About Me:
-I like hacking n stuff. 
+I like hacking and arduino. Self taught programmer. 
 
 
 ## 🌐 Socials:
 Discord : Chickenpie8636 
+
+## 🎓 Learning:
+Python and VScode
+
+## ⚒️ Making:
+Byte-Stealer info stealer project\
+Wifi deauther with esp8266 and screen\
+Ir cloner that saves to SD card with arduino Nano\
+433mhz RF reader and transmitter(cloner)
+
+
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,4 +34,3 @@ Discord : Chickenpie8636
 ---
 [![](https://visitcount.itsvg.in/api?id=TurtlesXD&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
