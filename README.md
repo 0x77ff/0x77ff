@@ -3,7 +3,7 @@ I like hacking and arduino. Self taught programmer.
 
 
 ## 🌐 Socials:
-Discord : Chickenpie8636 
+Discord : 0x77ff
 
 ## 🎓 Learning:
 Python and VScode
