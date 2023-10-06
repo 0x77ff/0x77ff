@@ -8,13 +8,6 @@ Discord : 0x77ff
 ## 🎓 Learning:
 Python and VScode
 
-## ⚒️ Making:
-digistark Attiny 85 bad usb
-Byte-Stealer info stealer project\
-Wifi deauther with esp8266 and screen\
-Ir cloner that saves to SD card with arduino Nano\
-433mhz RF reader and transmitter(cloner)
-
 
 
 
