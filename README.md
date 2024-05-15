@@ -1,15 +1,6 @@
-# 💫 About Me:
-I like hacking and arduino.
-
 
 ## 🌐 Socials:
 Discord : 0x77ff
-
-## 🎓 Learning:
-Python and VScode
-
-
-
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
